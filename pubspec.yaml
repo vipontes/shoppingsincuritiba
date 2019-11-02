@@ -1,0 +1,21 @@
+name: shoppingsincuritiba
+description: An application that shows how to implement Maps on Flutter
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_maps_flutter: ^0.4.0
+  font_awesome_flutter: ^8.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
