@@ -6,4 +6,4 @@ um ListView horizontal o qual permite a navegação nos marcadores.
 
 ## Tela do App:
 
-![](https://github.com/vipontes/shoppingsincuritiba/screenshot.png)
+![](screenshot.png)
